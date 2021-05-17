@@ -146,7 +146,7 @@ p{
         margin-bottom: 0;
     }
     .media{
-          padding-left: 355px
+          padding-left: 360px
     }
     .navbar-nav{
     padding-left: 250px;
@@ -161,10 +161,11 @@ p{
         height: 130%;
     }
     .footer1{
-        padding-top: 62px;
+        padding-top:25px;
+        text-align: center;
     }
     .media{
-        padding: 20px;
+        padding: 10px;
         padding-left: 380px;
     }
     .Copyright{
